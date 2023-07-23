@@ -1,7 +1,6 @@
 - JAVA | JS
 - NETWORK
 - SECURITY
-- LEETCODE #336 | HACKERRANK 
 
 <!---
 TurbanTrap/TurbanTrap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
